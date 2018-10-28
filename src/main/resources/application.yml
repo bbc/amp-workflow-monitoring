@@ -1,0 +1,6 @@
+---
+
+splunk.scheme: ${SPLUNK_SCHEME}
+splunk.username: ${SPLUNK_USERNAME}
+splunk.password: ${SPLUNK_PASSWORD}
+splunk.host: ${SPLUNK_HOST}
